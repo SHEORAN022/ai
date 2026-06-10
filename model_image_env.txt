@@ -1,0 +1,12 @@
+MODEL_FEMALE_FRONT=https://res.cloudinary.com/dhd9ogesn/image/upload/v1781075727/fashion-ai/models/model_female_front.jpg
+MODEL_FEMALE_LEFT=https://res.cloudinary.com/dhd9ogesn/image/upload/v1781075729/fashion-ai/models/model_female_left.jpg
+MODEL_FEMALE_RIGHT=https://res.cloudinary.com/dhd9ogesn/image/upload/v1781075731/fashion-ai/models/model_female_right.jpg
+MODEL_FEMALE_BACK=https://res.cloudinary.com/dhd9ogesn/image/upload/v1781075733/fashion-ai/models/model_female_back.jpg
+MODEL_MALE_FRONT=https://res.cloudinary.com/dhd9ogesn/image/upload/v1781075735/fashion-ai/models/model_male_front.jpg
+MODEL_MALE_LEFT=https://res.cloudinary.com/dhd9ogesn/image/upload/v1781075738/fashion-ai/models/model_male_left.jpg
+MODEL_MALE_RIGHT=https://res.cloudinary.com/dhd9ogesn/image/upload/v1781075740/fashion-ai/models/model_male_right.jpg
+MODEL_MALE_BACK=https://res.cloudinary.com/dhd9ogesn/image/upload/v1781075743/fashion-ai/models/model_male_back.jpg
+MODEL_KID_FRONT=https://res.cloudinary.com/dhd9ogesn/image/upload/v1781075745/fashion-ai/models/model_kid_front.jpg
+MODEL_KID_LEFT=https://res.cloudinary.com/dhd9ogesn/image/upload/v1781075747/fashion-ai/models/model_kid_left.jpg
+MODEL_KID_RIGHT=https://res.cloudinary.com/dhd9ogesn/image/upload/v1781075750/fashion-ai/models/model_kid_right.jpg
+MODEL_KID_BACK=https://res.cloudinary.com/dhd9ogesn/image/upload/v1781075752/fashion-ai/models/model_kid_back.jpg
